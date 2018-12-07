@@ -1,0 +1,137 @@
+.navbar-inverse {
+    background-color: #2196f3 !important;
+    border-color: #080808;
+
+}
+
+.navbar {
+    position: relative;
+    min-height:40px;
+    margin-bottom: 10px;
+    border: 1px solid transparent;
+}
+
+.cardTop{
+margin-top: 10px;
+
+}
+
+h2{
+
+  font-size: 46.4px;
+font-size: 2.9rem;
+font-family: Circular Pro Bold;
+color: #fff;
+line-height: 1.4;
+margin-bottom: 1.5em;
+color:#000;
+}
+
+h5 {
+    font-size: 1.8rem;
+    line-height: 110%;
+    margin: 1.0933333333rem 0 .656rem 0;
+}
+
+.col{
+/* background-color: #ff5533; */
+
+
+}
+.dashLabelbg {
+    margin-top: 10px;
+    width: 100%;
+    background: #45a7f5;
+    height: 60px;
+    padding-top: 1px;
+    color: #fff;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+}
+
+.card {
+    position: relative;
+    margin: .5rem 0 1rem 0;
+    background: #fff;
+    width: 100%;
+    padding-bottom: 20px;
+    transition: box-shadow .25s, -webkit-box-shadow .25s;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+    /* border: 5px solid #494848; */
+}
+
+.card .card-content {
+    padding: 40px;
+    border-radius: 0 0 2px 2px;
+    min-height: 200px;
+}
+
+.material-icons {
+    font-size: 35px;
+}
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 50px !important;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #45a7f5;
+    border-color: #2e6da4;
+}
+
+.cardBgColor1, .cardBgColor2 h7 {
+    font-size: 1.9rem;
+    line-height: 100%;
+    color: #2196f3;
+}
+
+
+.btn-sm, .btn-group-sm > .btn {
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-inverse .btn-link {
+    color: #fead37;
+}
+
+.cardBottom1 {
+    float: left;
+    width: 50%;
+    height: 50px;
+    margin-top: -30px;
+    z-index: 300;
+    border-bottom: 20px solid #2196f3;
+}
+
+.cardBottom2 {
+    float: right;
+    width: 50%;
+    height: 50px;
+    margin-top: -30px;
+    z-index: 300;
+    border-bottom: 20px solid #45a7f5;
+}
