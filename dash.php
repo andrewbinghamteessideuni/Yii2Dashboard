@@ -5,7 +5,7 @@
 //added helper
 use yii\helpers\Html;
 
-$this->title = 'MyQuest Test CMS Example';
+$this->title = 'MyQuest Test CMS Example 2';
 ?>
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
